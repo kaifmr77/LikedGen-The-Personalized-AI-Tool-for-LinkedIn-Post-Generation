@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.gradle/
+.idea/
+.vscode/
+*.log
+*.csv
+*.docx
+*.pdf
+

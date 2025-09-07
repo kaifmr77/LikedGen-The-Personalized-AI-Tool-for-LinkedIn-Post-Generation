@@ -1,0 +1,14 @@
+streamlit==1.35.0
+langchain==0.2.14
+langchain-core==0.2.39
+langchain-community==0.2.12
+langchain_groq==0.1.9
+pandas==2.0.2
+python-docx==1.1.2
+reportlab==4.2.2
+python-dotenv==1.0.1
+
+
+
+
+ python -m streamlit run main.py
